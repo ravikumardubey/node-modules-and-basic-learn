@@ -1,0 +1,23 @@
+{
+  "name": "fordemonode",
+  "version": "1.0.0",
+  "description": "this is tutorial for lean new in node js ",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "this",
+    "is",
+    "node",
+    "js",
+    "learn",
+    "tutorial"
+  ],
+  "author": "ravi kumar dubey",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
